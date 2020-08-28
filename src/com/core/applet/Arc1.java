@@ -1,0 +1,20 @@
+package com.core.applet;
+import java.applet.Applet;
+import java.awt.*;
+/*<applet code="Arc1" width=800 height=400>
+</applet>*/
+public class Arc1 extends Applet {
+
+  /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+public void paint (Graphics g) {
+// void drawArc(int x1,int y1, int width, int height,int startAngle, int arcAngle)
+    
+//g.drawArc (20, 30, 150, 130, 45, 120);
+    g.fillArc (20, 30, 150, 130, 240, 90);
+  }
+
+}

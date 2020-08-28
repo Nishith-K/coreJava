@@ -1,0 +1,19 @@
+Primitive Data Type or Fundamental Data Type:
+
+I)Integer Data Type
+Data Type		Memory Size
+i) byte		1byte
+ii)short		2 bytes
+iii)int		4 bytes
+iv)long		8 bytes
+
+II)Float Datatype
+
+i)float		4 bytes
+ii)double		8 bytes
+
+III) Character Datatype
+i) char		2 bytes
+
+IV) Boolean datatype
+i) boolean	1bit(true or false)

@@ -1,0 +1,42 @@
+The precedence of java operators:--
+
+1) Increment and Decrement Operator
+2) Arithmetic Operations
+3) Comparisons
+4) Logical Operations
+5) Assignment Operations
+
+Highest
+()	[]	.
+
+++	--	~	!
+
+*	/	%
+
++	-
+
+>>	>>>	<<
+
+>	>=	<	<=
+
+==
+
+!=
+
+&
+
+^
+
+|
+
+&&
+
+||
+
+?:
+
+=	op=
+Lowest
+
+Note: If equal precedence than precedence 
+         will count from left to right. 

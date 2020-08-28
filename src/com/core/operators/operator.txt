@@ -1,0 +1,27 @@
+A+B
++ is a operator
+A and B is called operand
+"unary"
+"binary"
+"ternary"
+
+Operator in Java:
+
+1) Arithmetic Operator:+,-, %, *, /
+2) Unary Operator:++, --
+3) Assignment Operator: =, +=, -=, *=, %=
+4) Relational Operator: <, <=, >=, >, ==, !=
+5) Logical Operator: &&, ||, !
+6) Boolean Operator: &, |, !
+7) Bitwise Operators: 
+	a) Bitwise complement: ~
+	b) Bitwise and:&
+	c) Bitwise or: |(pipe symbol)
+	d) Bitwise XOR:^(cap symbol)
+8) Dot Operator:
+	a) To refer to a class into package
+   	  ex: java.util.Date, java.io.BufferedReader
+	b) To refer to a method of a class
+     	ex: Math.pow(), Emp.sum()
+	c) To refer to a variable in a class
+    	 ex: Emp.name, Emp.no
